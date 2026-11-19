@@ -1,0 +1,4 @@
+# Script output contains customer tenant data
+output/
+
+.DS_Store
