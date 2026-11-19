@@ -1,4 +1,4 @@
-# Script output contains customer tenant data
+# Script output describes the Azure environment; treat as sensitive
 output/
 
 .DS_Store
